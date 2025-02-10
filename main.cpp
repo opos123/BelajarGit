@@ -5,7 +5,7 @@
 int main() {
     // TIP Press <shortcut actionId="RenameElement"/> when your caret is at the
     // <b>lang</b> variable name to see how CLion can help you rename it.
-    std::cout << "Hello Word\n";
+    std::cout << "Hello Itba Ridwanul Haq\n";
 
     for (int i = 1; i <= 5; i++) {
         // TIP Press <shortcut actionId="Debug"/> to start debugging your code.
